@@ -1,0 +1,19 @@
+{
+    "name": "decomplexify/hi",
+    "description": "Dummy Package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "decomplexify",
+            "email": "name@domain.com"
+        }
+    ],
+    "require": {
+        "php": "^8.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Decomplexify\\Hi\\": "src"
+        }
+    }
+}
